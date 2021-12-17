@@ -12,7 +12,7 @@ int main()
 	int sumMult3n5 = 0;
 	for(int i = 1; i < 1000; ++i)
 	{
-		if(i%3==0)
+		if(i % 3 == 0)
 		{
 			sumMult3n5 += i;
 		}
